@@ -5,7 +5,7 @@
  */
 "use strict";
 
-
+console.info("===============================");
 var app = new Vue({
     el: '#app',
     data: {
